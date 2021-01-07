@@ -1512,6 +1512,7 @@ fieldset[disabled] .btn-primary.active, fieldset[disabled] .btn-primary.focus, f
 	padding: 6px 10px 5px 10px;
 	font-size: 12px;
 	font-weight: 600;
+	color: #fff;
 }
 .quote-slider h2 {
 	line-height: 1.2;
