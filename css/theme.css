@@ -879,6 +879,8 @@ img {
 /* Button Style */
 .btn-primary {
 	color: #fff;
+	background: #39ff14 !important;
+	border-color: #39ff14 !important;
 }
 .btn-ghost:hover {
 	color: #fff;
