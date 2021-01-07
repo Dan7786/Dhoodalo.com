@@ -4748,8 +4748,8 @@ ul {
 	color: #35383c;
 	opacity: 1;
 }
-@media screen and (max-width: 600px) {
+/*@media screen and (max-width: 600px) {
   .logo-dark {
     margin-left: -51px;
   }
-}
+}*/
