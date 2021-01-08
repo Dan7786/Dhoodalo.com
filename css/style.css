@@ -55,3 +55,12 @@
   margin-top: 70px;
   margin-bottom: 70px;
 }
+
+@media only screen and (max-width: 600px) {
+  .mt-5{
+    margin-top: 50px;
+  }
+  .my-sphere {
+    margin-bottom: 70px;
+  }
+}
