@@ -101,16 +101,16 @@ a:hover .subheading,
 #price-list .featured .price-table,
 .progress-bars-4 .progress-bar-tooltip:after
 {
-    border-top-color: #4c51e0
+    border-top-color: #39ff14;
 }
 #video .play-btn:after,
 .music-bottom .play-btn:after,
 .play-bottom .play-btn:after,
 blockquote {
-    border-left-color: #4c51e0
+    border-left-color: #39ff14;
 }
 .progress-svg circle {
-  	stroke: #4c51e0
+  	stroke: #39ff14;
 }
 
 
