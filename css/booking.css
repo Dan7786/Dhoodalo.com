@@ -148,15 +148,6 @@
   }
 
   .field input{
-    height: 100%;
-    width: 100%;
-    padding-left: 45px;
-    font-size: 18px;
-    outline: none;
-    border: none;
-    color: #595959;
-    background: #dde1e7;
-    border-radius: 25px;
     box-shadow: inset 2px 2px 5px #babecc,
                 inset -5px -5px 10px #ffffff73;
   }
