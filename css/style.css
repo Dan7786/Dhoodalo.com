@@ -37,5 +37,20 @@
 }*/
 
 .sphere-globe{
-  /*background: #252423 !important;*/
+  background: #252423;
+}
+
+.mt-5{
+  margin-top: 170px;
+  /*margin-left: 100px*/
+}
+.mt-5  h1  {
+   color: #39ff14;
+}
+.mt-5  p {
+   color: #39ff14;
+}
+
+.my-sphere {
+  margin-top: 60px;
 }
