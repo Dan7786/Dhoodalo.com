@@ -58,9 +58,9 @@
 
 @media only screen and (max-width: 600px) {
   .mt-5{
-    margin-top: 50px;
+    margin-top: 20px;
   }
   .my-sphere {
-    margin-bottom: 70px;
+    margin-bottom: 85px;
   }
 }
