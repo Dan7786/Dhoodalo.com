@@ -75,6 +75,10 @@
 }
 
 /* pricing-fix section css starts here*/
+#pricing-fix{
+  margin: 0px;
+  padding: 0px;
+}
 
 pricing-fix{
   width: 100%;
