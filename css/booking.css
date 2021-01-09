@@ -30,7 +30,7 @@
   font-size: 33px;
   font-weight: 600;
   margin-bottom: 35px;
-  color: #39ff14;
+  color: #3498db;
 }
 
 .content .field{
@@ -70,7 +70,7 @@
   position: absolute;
   width: 50px;
   line-height: 50px;
-  color: #39ff14;
+  color: #3498db;
 }
 
 .field label{
@@ -94,7 +94,7 @@
 
 .forgot-pass a{
   font-size: 16px;
-  color: #39ff14;
+  color: #3498db;
   text-decoration: none;
 }
 
@@ -123,7 +123,7 @@
 }
 
 .btn-home {
-  color: #39ff14;
+  color: #3498db;
   box-shadow:   2px 2px 5px #babecc,
                -5px -5px 10px #ffffff73;
 
