@@ -63,4 +63,14 @@
   .my-sphere {
     margin-bottom: 85px;
   }
+  .content {
+    width: 280px !important;
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+  }
+
+  .content .text{
+    font-size: 20px !important;
+  }
 }
+
