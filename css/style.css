@@ -75,6 +75,9 @@
 }
 
 /* pricing-fix section css starts here*/
+html, body {
+  overflow-x: hidden;
+}
 #pricing-fix{
   margin: 0px;
   padding: 0px;
