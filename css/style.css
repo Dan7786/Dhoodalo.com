@@ -204,3 +204,42 @@ font-size: 16px;
 }
 
 /* pricing fix css ends here*/
+
+
+.btn-grad {background-image: linear-gradient(to right, #fc00ff 0%, #00dbde  51%, #fc00ff  100%)}
+.btn-grad {
+  margin: 10px;
+  padding: 15px 65px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 30px;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+.dhoodalo-header{
+  height: 381px;
+}
+
+.mt60{
+  margin-top: 60px;
+}
+
+.mt80{
+  margin-top: 80px;
+}
+
+.mt100{
+  margin-top: 100px;
+}
+.mb50{
+  margin-bottom: 50px !important;
+}

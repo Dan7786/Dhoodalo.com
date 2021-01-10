@@ -72,6 +72,29 @@
   line-height: 50px;
   color: #3498db;
 }
+.box1{
+  margin-bottom: 46px;
+}
+.field1{
+  height: 100%;
+  width: 100%;
+ -webkit-appearance: none !important;
+  padding-left: 45px;
+  font-size: 18px;
+  outline: none;
+  border: none;
+  color: #595959;
+  background: #dde1e7;
+  border-radius: 25px;
+  box-shadow: inset 2px 2px 5px #babecc,
+              inset -5px -5px 10px #ffffff73;
+}
+
+.field1 input:focus ~ label{
+  box-shadow: inset 2px 2px 5px #babecc,
+              inset -1px -1px 2px #ffffff73;
+}
+
 
 .field label{
   position: absolute;
