@@ -4756,3 +4756,26 @@ ul {
     margin-left: -17px;
   }
 }
+
+
+.coming-soon{
+	height: 100vh;
+}
+
+
+.coming-soon h1 {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+.text-white{
+	color: #fff;
+}
+
+.coming-soon a {
+	color: #fff;
+}
